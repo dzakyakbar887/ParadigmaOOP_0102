@@ -17,4 +17,5 @@ void printData(){
 int main(){
     mahasiswa mhs;//object
     mhs.nim = 2022;
-   
+    mhs.nama = "Abrar";
+    
